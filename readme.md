@@ -8,15 +8,15 @@ Unit tests are methods for unit testing of source code elements. Their main obje
 
 ## Test 1
 
-[Test 1](./3.1.Test1)
+[Test 1](./3.1.Test1/SpecRunner.html)
 
 ## Test 2
 
-[Test 2](./3.2.Test2)
+[Test 2](./3.2.Test2/SpecRunner.html))
 
 ## Recall
 
-[Recall](./3.3.Recall)
+[Recall](./3.3.Recall/SpecRunner.html))
 
 ## More ?
 
