@@ -1,9 +1,4 @@
 # Jasmine, unit tests.
-
-- Time necessary : **4 days**
-- Work mode : **Solo**
-- Repository: `JasmineCheck`
-
 Unit tests are methods for unit testing of source code elements. Their main objective is to verify the proper functioning of subsets of code such as functions, procedures, classes, etc. Unit tests ensure that these basic elements function as desired and prevent potential bugs.
 
 ## Test 1
